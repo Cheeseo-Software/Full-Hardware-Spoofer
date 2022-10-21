@@ -3,4 +3,4 @@ Full free hardware spoofer, coded in C++. Full custom framework, this was leaked
 
 
 - WORKING ON THIS PROJECT:
-[x] Update EAC
+- [x] Update EAC
